@@ -1,75 +1,78 @@
-
+<!-- ===================== HERO BANNER ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123B70,100:00D9FF&height=220&section=header&text=AL%20YASHIN&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:123C69,100:00C2FF&text=AL%20YASHIN&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20PYTHON%20BACKEND%20ENGINEER&descSize=13&descAlignY=59&animation=fadeIn" alt="Al Yashin profile banner"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Real+Products;Full-Stack+Web+Development;Python+%7C+FastAPI+%7C+React;Exploring+AI+%26+Machine+Learning" alt="Typing animation"/>
+</a>
+
+<br/>
 
 <a href="https://github.com/yashin-gif">
-  <img src="https://img.shields.io/badge/GitHub-yashin--gif-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/GitHub-yashin--gif-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://al-yashin-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-123B70?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://al-yashin-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://linkedin.com/in/al-yashin-5179652a5">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-087EA4?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:fasalyashin@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-### `BUILD • LEARN • IMPROVE`
-
-*Turning ideas into useful digital experiences.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Al Yashin"
-        self.role = "Junior Full-Stack Developer"
-        self.education = "CSE Honours"
-        self.university = "City University, Bangladesh"
-        self.interests = [
-            "Full-Stack Development",
-            "Backend Engineering",
-            "Building Useful Products"
-        ]
+## `01`   THE DEVELOPER
 
-    def motto(self):
-        return "Learn every day. Build with purpose."
-```
+<img align="right" width="155" src="https://skillicons.dev/icons?i=python,react,fastapi,postgres&perline=2" alt="Main technologies"/>
 
-- 🎓 Computer Science and Engineering student.
-- 💻 Building web applications and REST APIs.
-- 🌱 Improving my skills through real-world projects.
-- 🏡 Creating **Digital Village** to support local communities with useful digital services.
-- 🎯 Focused on clean code, practical solutions and continuous learning.
+Hi, I'm **Al Yashin**, a Computer Science & Engineering student at **City University, Bangladesh**.
+
+I enjoy building practical applications, designing APIs, working with databases, and exploring how modern software systems work.
+
+* 🎓   CSE Student — City University
+* 💻   Focused on Full-Stack Development
+* ⚙️   Building APIs with Python and FastAPI
+* 🧠   Exploring Artificial Intelligence and Machine Learning
+* 🌱   Learning, building, and improving every day
+
+<br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+
+## `02`   TECHNOLOGY STACK
 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp&theme=dark" alt="Python JavaScript C++" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML CSS React Tailwind Vite" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Python, JavaScript, HTML and CSS"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite and Tailwind CSS"/>
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark" alt="FastAPI PostgreSQL" />
 
-### Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite" alt="FastAPI, PostgreSQL and SQLite"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Git, GitHub, VS Code, Vercel and Docker"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## `03`   FEATURED PROJECTS
 
 <table>
 <tr>
@@ -77,43 +80,60 @@ class Developer:
 
 <h3>🏡 Digital Village</h3>
 
-A community-focused platform for organizing village information and useful local services.
+A digital platform designed to connect village residents with useful community information and services.
 
-**Focus:** Frontend Development
+**Highlights**
 
-<a href="https://github.com/yashin-gif/digital-village-frontend">
-  <img src="https://img.shields.io/badge/Source_Code-View-123B70?style=for-the-badge&logo=github" />
-</a>
+* Community information and directories
+* Blood donor information
+* Institutions and mosque listings
+* React frontend with a FastAPI backend
+* PostgreSQL database
 
 <a href="https://digital-village-frontend-ruby.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-Open-00A6C7?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Digital Village live demo"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/yashin-gif/digital-village-frontend">
+<img src="https://img.shields.io/badge/Frontend-Repository-1F2937?style=flat-square&logo=github" alt="Frontend repository"/>
+</a>
+
+<a href="https://github.com/yashin-gif/digital-village-backend">
+<img src="https://img.shields.io/badge/Backend-Repository-1F2937?style=flat-square&logo=github" alt="Backend repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💰 Expense Tracker API</h3>
-
-A backend project for expense management and API-based application development.
-
-**Focus:** Python · FastAPI · PostgreSQL
-
-<a href="https://github.com/yashin-gif/Expense-Tracker-API">
-  <img src="https://img.shields.io/badge/Source_Code-View-123B70?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
 <h3>🌐 Personal Portfolio</h3>
 
-Explore my background, skills and projects.
+My personal portfolio showcasing my developer profile, skills, selected projects, and contact information.
 
-<a href="https://al-yashin-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-00BDEB?style=for-the-badge&logo=vercel&logoColor=white" />
+**Highlights**
+
+* Responsive portfolio design
+* Developer profile and skills
+* Selected project showcase
+* Contact and professional links
+
+<a href="https://al-yashin-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Portfolio-Explore-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio"/>
 </a>
+
+<br/><br/>
+
+<h3>🩸 BloodBridge</h3>
+
+A blood donation and emergency assistance platform concept focused on connecting people who need blood with potential donors in Bangladesh.
+
+**Planned focus**
+
+* Blood donor discovery
+* Emergency blood requests
+* Location-based matching
+* React and FastAPI architecture
 
 </td>
 </tr>
@@ -121,55 +141,51 @@ Explore my background, skills and projects.
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## `04`   GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashin-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&icon_color=00D9FF&text_color=E6F1FF" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashin-gif&show_icons=true&hide_border=true&bg_color=07111F&title_color=00C2FF&icon_color=00C2FF&text_color=CBD5E1&ring_color=00C2FF" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashin-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&text_color=E6F1FF" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashin-gif&layout=compact&hide_border=true&bg_color=07111F&title_color=00C2FF&text_color=CBD5E1" alt="Most used languages"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=yashin-gif&theme=tokyonight&hide_border=true&background=07111F&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=yashin-gif&hide_border=true&background=07111F&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+<!-- ===================== CONNECT ===================== -->
+
+## `05`   LET'S CONNECT
 
 <div align="center">
 
-| Area | Focus |
-|:---|:---|
-| 💻 Development | Full-Stack Web Applications |
-| ⚙️ Backend | FastAPI & REST APIs |
-| 🗄️ Database | PostgreSQL |
-| 🚀 Projects | Digital Village & API Development |
+Interested in software development, backend engineering, AI, or building useful products? Let's connect.
 
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/al-yashin-5179652a5">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://al-yashin-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-123B70?style=for-the-badge&logo=vercel" />
-</a>
 <a href="https://github.com/yashin-gif">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/al-yashin-5179652a5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://al-yashin-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:fasalyashin@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-### 💙 `Code with purpose. Grow with consistency.`
+**BUILD • LEARN • CREATE • REPEAT**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123B70,100:07111F&height=100&section=footer" />
+<sub>Designed with passion by Al Yashin · Bangladesh 🇧🇩</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:07111F&height=100&section=footer" alt="Footer banner"/>
